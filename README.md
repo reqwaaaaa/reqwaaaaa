@@ -1,6 +1,6 @@
 # 无常名
 
-***奶味蓝蓝电台***
+***奶味蓝蓝电台**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reqwaaaaa&show_icons=true&theme=synthwave)
 
